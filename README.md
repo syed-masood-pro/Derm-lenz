@@ -2,7 +2,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://github.com/GoppyKrishna-77/derm-lens/assets/83293163/1c3a1988-276b-4c95-840d-e1616616e70d" type="png" alt="png" width="750">
+  <!-- 
+  <img src="https://github.com/GoppyKrishna-77/derm-lens/assets/83293163/1c3a1988-276b-4c95-840d-e1616616e70d" type="png" alt="png" width="750"> 
+-->
 
   <h1 align="center">DermLens</h1>
 
